@@ -1,5 +1,4 @@
 
-
 # Fination Digital Items
 
 Fination Digital Items adalah sebuah aplikasi sederhana untuk melakukan penjualan item digital seperti, top up game online dan pembelian voucher google play, itunes, dll. Aslinya ini cuma project iseng yang dibuat karena kegabutan hehehe :)
@@ -21,11 +20,9 @@ Fination Digital Items adalah sebuah aplikasi sederhana untuk melakukan penjuala
 ![App Screenshot](https://github.com/YudaKusumaID/Fination_Digital_Items/blob/main/Screenshot%202022-11-13%20101709.png?raw=true)
 - List
 ![App Screenshot](https://github.com/YudaKusumaID/Fination_Digital_Items/blob/main/Screenshot%202022-11-13%20101737.png?raw=true)
-
 ![App Screenshot](https://github.com/YudaKusumaID/Fination_Digital_Items/blob/main/Screenshot%202022-11-13%20102301.png?raw=true)
 - Items
 ![App Screenshot](https://github.com/YudaKusumaID/Fination_Digital_Items/blob/main/Screenshot%202022-11-13%20101807.png?raw=true)
-
 ![App Screenshot](https://github.com/YudaKusumaID/Fination_Digital_Items/blob/main/Screenshot%202022-11-13%20101847.png?raw=true)
 - Full Screenshoot
 ![App Screenshot](https://github.com/YudaKusumaID/Fination_Digital_Items/blob/main/Screenshot%202022-11-13%20101922.png?raw=true)
