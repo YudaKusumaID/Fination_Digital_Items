@@ -6,8 +6,8 @@ Fination Digital Items adalah sebuah aplikasi sederhana untuk melakukan penjuala
 
 ## Features
 
-- Desain yang simple dan minimalist
-- Tersedia dua produk yaitu, Top Up dan Voucher
+- Desain yang simple dan minimalist.
+- Tersedia dua produk yaitu, Top Up dan Voucher.
 - Sudah tersedia beberapa list yakni pada menu Top Up ada, PUBG Mobile, LOL Wild Drift, Point Blank, Genshin Impact, Valorant.
 - Sedangkan pada produk Voucher tersedia Google Play, Steam Wallet, iTunes, Play Station, dan Xbox Live.
 - Tersedia juga items yang tersedia pada pilihan list.
